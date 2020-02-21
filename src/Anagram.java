@@ -11,7 +11,7 @@ import java.util.Scanner;
  * nag a ram, or the word binary into brainy or
  * the word adobe into abode
  */
-public class main {
+public class Anagram {
     public static void main (String[] args) {
         Scanner input = new Scanner(System.in);
         String word1, word2;
