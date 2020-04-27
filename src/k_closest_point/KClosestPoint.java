@@ -10,6 +10,12 @@ import java.util.Arrays;
  * the closest point to the origin?
  *
  * Note: Origin = (0,0)
+ *
+ * The K Closest Point problem asked by Amazon is
+ * one of the problems related to finding the smallest
+ * number in a list. By sorting it and selecting the first
+ * position of the list, we are able to determine which element
+ * is the smallest.
  */
 public class KClosestPoint {
     private static double distance;
